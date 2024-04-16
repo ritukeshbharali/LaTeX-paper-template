@@ -1,0 +1,4 @@
+figs/main-figure8.pdf: ./Data/SENS/problem_lodi100.dat
+figs/main-figure8.pdf: ./Data/SENS/problem_lodi200.dat
+figs/main-figure8.pdf: ./Data/SENS/problem_lodi10.dat
+figs/main-figure8.pdf: ./Data/SENS/NotchShear_Miehe.txt

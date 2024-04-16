@@ -1,0 +1,125 @@
+% Add my definitions
+
+% Keywords command
+\providecommand{\keywords}[1]
+{
+  \small	
+  \textbf{\textit{Keywords: }} #1
+}
+
+% Set pgf compatibility
+\pgfplotsset{compat=1.16}
+
+% Line numbers
+\linenumbers
+\modulolinenumbers[5]
+
+% Theorem environment
+\newtheorem{theorem}{Theorem}
+\newtheorem{Definition}{Definition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{Theorem}{Theorem}
+\newtheorem{Lemma}{Lemma}
+\newtheorem{Claim}{Claim}
+\newtheorem{Notation}{Notation}
+\newtheorem{Algorithm}{Algorithm}
+\newtheorem{Observation}{Observation}
+
+% ---------------------------------------------------------------------------- %
+%  Problems, theorems, lemmas
+% ---------------------------------------------------------------------------- %
+\newtheorem{problem}{Problem}
+\newtheorem{dproblem}{Discrete Problem}
+\newtheorem{vproblem}{Variational Problem}
+\newtheorem{remark}{Remark}
+
+\tcbset{problemstyle/.style={title={},breakable, title after break={Problem \thevproblem\ (continued)}}}
+\AtBeginEnvironment{problem}{\vspace{1em}\begin{tcolorbox}[problemstyle]}%
+\AtEndEnvironment{problem}{\end{tcolorbox}}%  
+
+\tcbset{vproblemstyle/.style={title={},breakable, title after break={Variational Problem \thevproblem\ (continued)}}}
+\AtBeginEnvironment{vproblem}{\vspace{1em}\begin{tcolorbox}[vproblemstyle]}%
+\AtEndEnvironment{vproblem}{\end{tcolorbox}}%  
+
+\tcbset{dproblemstyle/.style={title={},breakable, title after break={Discrete Problem \thedproblem\ (continued)}}}
+\AtBeginEnvironment{dproblem}{\vspace{1em}\begin{tcolorbox}[dproblemstyle]}%
+\AtEndEnvironment{dproblem}{\end{tcolorbox}}%    
+
+\tcbset{remarkstyle/.style={title={},breakable, title after break={Remark \theremark\ (continued)}}}
+\AtBeginEnvironment{remark}{\vspace{1em}\begin{tcolorbox}[remarkstyle]}%
+\AtEndEnvironment{remark}{\end{tcolorbox}}%
+
+% Definition
+\newcommand\mydef{:=}
+
+% Bold for tensors
+\def\bsigma{\hbox{\boldmath$\sigma$}}
+\def\bepsilon{\hbox{\boldmath$\epsilon$}}
+\def\bnabla{\hbox{\boldmath$\nabla$}}
+
+% Solid Mechanics
+\def\disp{\hbox{$u$}}
+\def\bdisp{\hbox{$\mathbf{u}$}}
+\def\tdisp{\hbox{$\text{u}$}}
+\def\testbdisp{\hbox{$\delta\mathbf{u}$}}
+\def\etensor{\hbox{$\mathbb{E}$}}
+\def\strain{\hbox{$\bepsilon$}}
+\def\strainpos{\hbox{$\bepsilon^+$}}
+\def\strainneg{\hbox{$\bepsilon^-$}}
+\def\stress{\hbox{$\bsigma$}}
+\def\stresspos{\hbox{$\bsigma^+$}}
+\def\stressneg{\hbox{$\bsigma^-$}}
+\newcommand{\lame}[1]{%
+    \IfEqCase{#1}{%
+        {1}{\lambda}%
+        {2}{\mu}%
+    }[\PackageError{lame}{Undefined option to lame: #1}{}]%
+}% Lame constants
+
+% Phase-field
+\def\pf{\hbox{$\varphi$}}
+\def\testpf{\hbox{$\delta\varphi$}}
+\def\l{\hbox{$l$}}
+\def\gc{\hbox{$G_c$}}
+
+% Micromorphic phase-field
+\def\mpf{\hbox{$d$}}
+\def\testmpf{\hbox{$\delta\mpf$}}
+
+% Slack variable
+\def\slk{\hbox{$\theta$}}
+
+% Domain, surface and tractions (takes input arguments)
+\def\dom{\hbox{$\Omega$}}
+\def\surf{\hbox{$\Gamma$}}
+\newcommand{\domarg}[2]{\hbox{$\dom_{#1}^{\scriptsize{#2}}$}}
+\newcommand{\surfarg}[2]{\hbox{$\surf_{#1}^{\scriptsize{#2}}$}}
+\newcommand{\trac}[1]{\hbox{$\mathbf{t}_{p}^{\scriptsize{#1}}$}}
+
+% Fracture/crack surface
+\def\surfcrack{\hbox{$\mathcal{C}$}}
+
+% For homogenization (overbars, angular brackets)
+\newcommand{\overbar}[1]{\mkern 1.5mu\overline{\mkern-1.5mu#1\mkern-1.5mu}\mkern 1.5mu} %overbar
+
+%%%%%%%%% TikZ Stuff %%%%%%%%%%%%%%%%
+\usetikzlibrary{external}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\tikzfading[name=fade out, 
+    inner color=transparent!0,
+    outer color=transparent!100]
+\usetikzlibrary{shapes}
+\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{arrows}
+\usepgfplotslibrary{fillbetween}
+
+\tikzexternalize[prefix=figs/, shell escape=-enable-write18]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% font size for captions
+\DeclareCaptionFont{mysize}{\fontsize{9}{9.6}\selectfont}
+\captionsetup{font=mysize}
+
+% no indent for paragraphs
+\setlength\parindent{0pt}

@@ -1,0 +1,2952 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Francfort1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2962f5df2868345eac7f3a5c9f41ef5a}{%
+           family={Francfort},
+           familyi={F\bibinitperiod},
+           given={G.A.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=eac7a0464e976bcc882b9e949db1a894}{%
+           family={Marigo},
+           familyi={M\bibinitperiod},
+           given={J.-J.},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{84b5fef42fe505bfe0bc53255d6e1276}
+      \strng{fullhash}{84b5fef42fe505bfe0bc53255d6e1276}
+      \strng{bibnamehash}{84b5fef42fe505bfe0bc53255d6e1276}
+      \strng{authorbibnamehash}{84b5fef42fe505bfe0bc53255d6e1276}
+      \strng{authornamehash}{84b5fef42fe505bfe0bc53255d6e1276}
+      \strng{authorfullhash}{84b5fef42fe505bfe0bc53255d6e1276}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00225096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{{Revisiting brittle fracture as an energy minimization problem}}
+      \field{volume}{46}
+      \field{year}{1998}
+      \field{pages}{1319\bibrangedash 1342}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/S0022-5096(98)00034-9
+      \endverb
+    \endentry
+    \entry{Bourdin2000}{article}{}
+      \name{author}{3}{}{%
+        {{hash=09df612dfd3a7661f7bf7308458cee43}{%
+           family={Bourdin},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2962f5df2868345eac7f3a5c9f41ef5a}{%
+           family={Francfort},
+           familyi={F\bibinitperiod},
+           given={G.A.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=eac7a0464e976bcc882b9e949db1a894}{%
+           family={Marigo},
+           familyi={M\bibinitperiod},
+           given={J-J.},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea08b657e55da4f4a75e6e07ad3e4dd0}
+      \strng{fullhash}{ea08b657e55da4f4a75e6e07ad3e4dd0}
+      \strng{bibnamehash}{ea08b657e55da4f4a75e6e07ad3e4dd0}
+      \strng{authorbibnamehash}{ea08b657e55da4f4a75e6e07ad3e4dd0}
+      \strng{authornamehash}{ea08b657e55da4f4a75e6e07ad3e4dd0}
+      \strng{authorfullhash}{ea08b657e55da4f4a75e6e07ad3e4dd0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The numerical implementation of the model of brittle fracture developed in Francfort and Marigo (1998. J. Mech. Phys. Solids 46 (8), 1319–1342) is presented. Various computational methods based on variational approximations of the original functional are proposed. They are tested on several antiplanar and planar examples that are beyond the reach of the classical computational tools of fracture mechanics.}
+      \field{issn}{0022-5096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{number}{4}
+      \field{title}{Numerical experiments in revisited brittle fracture}
+      \field{volume}{48}
+      \field{year}{2000}
+      \field{pages}{797\bibrangedash 826}
+      \range{pages}{30}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0022-5096(99)00028-9
+      \endverb
+      \keyw{A. Fracture,Fracture toughness,C. Energy methods,Variational calculus,Finite elements}
+    \endentry
+    \entry{Bourdin2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=09df612dfd3a7661f7bf7308458cee43}{%
+           family={Bourdin},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{09df612dfd3a7661f7bf7308458cee43}
+      \strng{fullhash}{09df612dfd3a7661f7bf7308458cee43}
+      \strng{bibnamehash}{09df612dfd3a7661f7bf7308458cee43}
+      \strng{authorbibnamehash}{09df612dfd3a7661f7bf7308458cee43}
+      \strng{authornamehash}{09df612dfd3a7661f7bf7308458cee43}
+      \strng{authorfullhash}{09df612dfd3a7661f7bf7308458cee43}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Interfaces and Free Boundaries}
+      \field{title}{{Numerical implementation of the variational formulation for quasi-static brittle fracture}}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{411\bibrangedash 430}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.4171/IFB/171
+      \endverb
+    \endentry
+    \entry{sukumar2000extended}{article}{}
+      \name{author}{4}{}{%
+        {{hash=05bc181549cf227a94277c8cc82a87a4}{%
+           family={Sukumar},
+           familyi={S\bibinitperiod},
+           given={Natarajan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1404d676814945395479853f575fb383}{%
+           family={Moës},
+           familyi={M\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8a15dce691a51c8e52e4cfdd9233746e}{%
+           family={Moran},
+           familyi={M\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7baf40772d707fab6fd1da4c79156dd4}{%
+           family={Belytschko},
+           familyi={B\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{711d711212a8ead37fe75ada01d1db03}
+      \strng{fullhash}{878a2be1a6e1ddd744ea580cc375552e}
+      \strng{bibnamehash}{711d711212a8ead37fe75ada01d1db03}
+      \strng{authorbibnamehash}{711d711212a8ead37fe75ada01d1db03}
+      \strng{authornamehash}{711d711212a8ead37fe75ada01d1db03}
+      \strng{authorfullhash}{878a2be1a6e1ddd744ea580cc375552e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal for numerical methods in engineering}
+      \field{number}{11}
+      \field{title}{Extended finite element method for three-dimensional crack modelling}
+      \field{volume}{48}
+      \field{year}{2000}
+      \field{pages}{1549\bibrangedash 1570}
+      \range{pages}{22}
+    \endentry
+    \entry{moes2002extended}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1404d676814945395479853f575fb383}{%
+           family={Moës},
+           familyi={M\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7baf40772d707fab6fd1da4c79156dd4}{%
+           family={Belytschko},
+           familyi={B\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{274512f3cd9398d753d694c0f007a6d0}
+      \strng{fullhash}{274512f3cd9398d753d694c0f007a6d0}
+      \strng{bibnamehash}{274512f3cd9398d753d694c0f007a6d0}
+      \strng{authorbibnamehash}{274512f3cd9398d753d694c0f007a6d0}
+      \strng{authornamehash}{274512f3cd9398d753d694c0f007a6d0}
+      \strng{authorfullhash}{274512f3cd9398d753d694c0f007a6d0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering fracture mechanics}
+      \field{number}{7}
+      \field{title}{Extended finite element method for cohesive crack growth}
+      \field{volume}{69}
+      \field{year}{2002}
+      \field{pages}{813\bibrangedash 833}
+      \range{pages}{21}
+    \endentry
+    \entry{DUGDALE1960100}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bf59964989d6e14700a21159f7e8d8ad}{%
+           family={Dugdale},
+           familyi={D\bibinitperiod},
+           given={D.S.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf59964989d6e14700a21159f7e8d8ad}
+      \strng{fullhash}{bf59964989d6e14700a21159f7e8d8ad}
+      \strng{bibnamehash}{bf59964989d6e14700a21159f7e8d8ad}
+      \strng{authorbibnamehash}{bf59964989d6e14700a21159f7e8d8ad}
+      \strng{authornamehash}{bf59964989d6e14700a21159f7e8d8ad}
+      \strng{authorfullhash}{bf59964989d6e14700a21159f7e8d8ad}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-5096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{number}{2}
+      \field{title}{Yielding of steel sheets containing slits}
+      \field{volume}{8}
+      \field{year}{1960}
+      \field{pages}{100\bibrangedash 104}
+      \range{pages}{5}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0022-5096(60)90013-2
+      \endverb
+    \endentry
+    \entry{BARENBLATT196255}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1c00a252a612368db212a9ac85667aad}{%
+           family={Barenblatt},
+           familyi={B\bibinitperiod},
+           given={G.I.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=17c7174c2e5be2968256739f1a778430}{%
+           family={Dryden},
+           familyi={D\bibinitperiod},
+           given={H.L.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f84411e1bd2793ffaf3491ae3e40f463}{%
+           family={{von Kármán}},
+           familyi={v\bibinitperiod},
+           given={Th.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=716b49736d66a4917c20c0dc19943da4}{%
+           family={Kuerti},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=30427a342c3c0e0b4b5a52330ada5259}{%
+           family={{van den Dungen}},
+           familyi={v\bibinitperiod},
+           given={F.H.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=bd4a5a612a98a615b215e6ec7f8a288b}{%
+           family={Howarth},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1c00a252a612368db212a9ac85667aad}
+      \strng{fullhash}{1c00a252a612368db212a9ac85667aad}
+      \strng{bibnamehash}{1c00a252a612368db212a9ac85667aad}
+      \strng{authorbibnamehash}{1c00a252a612368db212a9ac85667aad}
+      \strng{authornamehash}{1c00a252a612368db212a9ac85667aad}
+      \strng{authorfullhash}{1c00a252a612368db212a9ac85667aad}
+      \strng{editorbibnamehash}{6e38f4f11944a5b7676e27d9623123d0}
+      \strng{editornamehash}{6e38f4f11944a5b7676e27d9623123d0}
+      \strng{editorfullhash}{7231052e622701ebe747d6c3896f9b1c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0065-2156}
+      \field{series}{Advances in Applied Mechanics}
+      \field{title}{The Mathematical Theory of Equilibrium Cracks in Brittle Fracture}
+      \field{volume}{7}
+      \field{year}{1962}
+      \field{pages}{55\bibrangedash 129}
+      \range{pages}{75}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0065-2156(08)70121-2
+      \endverb
+    \endentry
+    \entry{elices2002cohesive}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9f19a2f86962b0273c28b92051412567}{%
+           family={Elices},
+           familyi={E\bibinitperiod},
+           given={MGGV},
+           giveni={M\bibinitperiod}}}%
+        {{hash=03c6ff4e5bc1221e158739d81bb986f7}{%
+           family={Guinea},
+           familyi={G\bibinitperiod},
+           given={GV},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0983714877cadd5c67401c54a3e5a415}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a76c3c4bb704173c25cdcf73b02f2399}{%
+           family={Planas},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c718336642005cac1ee39cd15c71a500}
+      \strng{fullhash}{d00f1c89351ef8e039c38e5a5787ff48}
+      \strng{bibnamehash}{c718336642005cac1ee39cd15c71a500}
+      \strng{authorbibnamehash}{c718336642005cac1ee39cd15c71a500}
+      \strng{authornamehash}{c718336642005cac1ee39cd15c71a500}
+      \strng{authorfullhash}{d00f1c89351ef8e039c38e5a5787ff48}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering fracture mechanics}
+      \field{number}{2}
+      \field{title}{The cohesive zone model: advantages, limitations and challenges}
+      \field{volume}{69}
+      \field{year}{2002}
+      \field{pages}{137\bibrangedash 163}
+      \range{pages}{27}
+    \endentry
+    \entry{miehe2010b}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dbb333dab2164d6ba05c0ebf1bbc5174}{%
+           family={Miehe},
+           familyi={M\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=35e9a368525a2f3e5584460cfb7ee337}{%
+           family={Welschinger},
+           familyi={W\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=24e70949665803f9e15499ca25e3edc6}{%
+           family={Hofacker},
+           familyi={H\bibinitperiod},
+           given={Martina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{68df25232fe3b307d0f9069149a55a47}
+      \strng{fullhash}{68df25232fe3b307d0f9069149a55a47}
+      \strng{bibnamehash}{68df25232fe3b307d0f9069149a55a47}
+      \strng{authorbibnamehash}{68df25232fe3b307d0f9069149a55a47}
+      \strng{authornamehash}{68df25232fe3b307d0f9069149a55a47}
+      \strng{authorfullhash}{68df25232fe3b307d0f9069149a55a47}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal for numerical methods in engineering}
+      \field{number}{10}
+      \field{title}{Thermodynamically consistent phase-field models of fracture: Variational principles and multi-field FE implementations}
+      \field{volume}{83}
+      \field{year}{2010}
+      \field{pages}{1273\bibrangedash 1311}
+      \range{pages}{39}
+    \endentry
+    \entry{miehe2015486}{article}{}
+      \name{author}{4}{}{%
+        {{hash=61e54d1deddbf46f0bcab0d3bd0be24f}{%
+           family={Miehe},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=95b96317b23c9ea1a5c9c705c29a0d3d}{%
+           family={Hofacker},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b430f5528784df05da6b78912e73bf66}{%
+           family={Schänzel},
+           familyi={S\bibinitperiod},
+           given={L.-M.},
+           giveni={L\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=1b1f8b8150d6d149dc7064f6c1c07116}{%
+           family={Aldakheel},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c88349810e010a6143761d21a24a171}
+      \strng{fullhash}{07f1e26692e8c4599e6fda9516b2c61c}
+      \strng{bibnamehash}{9c88349810e010a6143761d21a24a171}
+      \strng{authorbibnamehash}{9c88349810e010a6143761d21a24a171}
+      \strng{authornamehash}{9c88349810e010a6143761d21a24a171}
+      \strng{authorfullhash}{07f1e26692e8c4599e6fda9516b2c61c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Phase field modeling of fracture in multi-physics problems. Part II. Coupled brittle-to-ductile failure criteria and crack propagation in thermo-elastic–plastic solids}
+      \field{volume}{294}
+      \field{year}{2015}
+      \field{pages}{486\bibrangedash 522}
+      \range{pages}{37}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2014.11.017
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782514004435
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782514004435
+      \endverb
+    \endentry
+    \entry{ambati2015ductile}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a5398f88b8a5933d00e19fe9b216cb32}{%
+           family={Ambati},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=92db1e5f9cf0017586c138dc6f03f7ab}{%
+           family={Gerasimov},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9b3840ab7049ac7b0b224ba192b90579}{%
+           family={De\bibnamedelima Lorenzis},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a44ad7e7bea39036dd1bd278fbe63a5f}
+      \strng{fullhash}{a44ad7e7bea39036dd1bd278fbe63a5f}
+      \strng{bibnamehash}{a44ad7e7bea39036dd1bd278fbe63a5f}
+      \strng{authorbibnamehash}{a44ad7e7bea39036dd1bd278fbe63a5f}
+      \strng{authornamehash}{a44ad7e7bea39036dd1bd278fbe63a5f}
+      \strng{authorfullhash}{a44ad7e7bea39036dd1bd278fbe63a5f}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1432-0924}
+      \field{journaltitle}{Computational Mechanics}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Phase-field modeling of ductile fracture}
+      \field{volume}{55}
+      \field{year}{2015}
+      \field{pages}{1017\bibrangedash 1040}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/s00466-015-1151-4
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00466-015-1151-4
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00466-015-1151-4
+      \endverb
+    \endentry
+    \entry{TEICHTMEISTER20171}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0532d35a1002fec853a28a72682e42db}{%
+           family={Teichtmeister},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b6c0f6ec76749a358766bd7b1a66dec4}{%
+           family={Kienle},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1b1f8b8150d6d149dc7064f6c1c07116}{%
+           family={Aldakheel},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c0dea80ca330aa23d85eb7e0688ce9c1}{%
+           family={Keip},
+           familyi={K\bibinitperiod},
+           given={M.-A.},
+           giveni={M\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2db95788a0d4de6282456676b00a929}
+      \strng{fullhash}{eb9e9371ea85627a556065aa2a8059d8}
+      \strng{bibnamehash}{c2db95788a0d4de6282456676b00a929}
+      \strng{authorbibnamehash}{c2db95788a0d4de6282456676b00a929}
+      \strng{authornamehash}{c2db95788a0d4de6282456676b00a929}
+      \strng{authorfullhash}{eb9e9371ea85627a556065aa2a8059d8}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-7462}
+      \field{journaltitle}{International Journal of Non-Linear Mechanics}
+      \field{title}{Phase field modeling of fracture in anisotropic brittle solids}
+      \field{volume}{97}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijnonlinmec.2017.06.018
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0020746217301944
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0020746217301944
+      \endverb
+    \endentry
+    \entry{BLEYER2018213}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b76bcc6a0217a4e6200907c385bfbbb2}{%
+           family={Bleyer},
+           familyi={B\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fdec11251cd5002d8c0954d00f7b9609}{%
+           family={Alessi},
+           familyi={A\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d8f7f1d33eea5c82cf1f4cf5ab858f2b}
+      \strng{fullhash}{d8f7f1d33eea5c82cf1f4cf5ab858f2b}
+      \strng{bibnamehash}{d8f7f1d33eea5c82cf1f4cf5ab858f2b}
+      \strng{authorbibnamehash}{d8f7f1d33eea5c82cf1f4cf5ab858f2b}
+      \strng{authornamehash}{d8f7f1d33eea5c82cf1f4cf5ab858f2b}
+      \strng{authorfullhash}{d8f7f1d33eea5c82cf1f4cf5ab858f2b}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Phase-field modeling of anisotropic brittle fracture including several damage mechanisms}
+      \field{volume}{336}
+      \field{year}{2018}
+      \field{pages}{213\bibrangedash 236}
+      \range{pages}{24}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2018.03.012
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782518301373
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782518301373
+      \endverb
+    \endentry
+    \entry{WILSON2016264}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c2ddad42fceaae367a204a3ffa0e3127}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Zachary\bibnamedelima A.},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=dcaa3002bbfb8a15cb2d0d15a316b582}{%
+           family={Landis},
+           familyi={L\bibinitperiod},
+           given={Chad\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{14e4262bc37b8ff357a6679c5c49e7a0}
+      \strng{fullhash}{14e4262bc37b8ff357a6679c5c49e7a0}
+      \strng{bibnamehash}{14e4262bc37b8ff357a6679c5c49e7a0}
+      \strng{authorbibnamehash}{14e4262bc37b8ff357a6679c5c49e7a0}
+      \strng{authornamehash}{14e4262bc37b8ff357a6679c5c49e7a0}
+      \strng{authorfullhash}{14e4262bc37b8ff357a6679c5c49e7a0}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-5096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{title}{Phase-field modeling of hydraulic fracture}
+      \field{volume}{96}
+      \field{year}{2016}
+      \field{pages}{264\bibrangedash 290}
+      \range{pages}{27}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jmps.2016.07.019
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S002250961630285X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S002250961630285X
+      \endverb
+    \endentry
+    \entry{HEIDER201738}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cb5ffe9c560e523c05061277bebe4710}{%
+           family={Heider},
+           familyi={H\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3b4b4d3f0a00bb4e83dd028ee83254c4}{%
+           family={Markert},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{95a36adc6c4f4352cee63ccfd0eec3c9}
+      \strng{fullhash}{95a36adc6c4f4352cee63ccfd0eec3c9}
+      \strng{bibnamehash}{95a36adc6c4f4352cee63ccfd0eec3c9}
+      \strng{authorbibnamehash}{95a36adc6c4f4352cee63ccfd0eec3c9}
+      \strng{authornamehash}{95a36adc6c4f4352cee63ccfd0eec3c9}
+      \strng{authorfullhash}{95a36adc6c4f4352cee63ccfd0eec3c9}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0093-6413}
+      \field{journaltitle}{Mechanics Research Communications}
+      \field{note}{Multi-Physics of Solids at Fracture}
+      \field{title}{A phase-field modeling approach of hydraulic fracture in saturated porous media}
+      \field{volume}{80}
+      \field{year}{2017}
+      \field{pages}{38\bibrangedash 46}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.mechrescom.2016.07.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0093641316300714
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0093641316300714
+      \endverb
+    \endentry
+    \entry{cajuhi2018phase}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ab69bb35f64b6a1143dfda79df87f09f}{%
+           family={Cajuhi},
+           familyi={C\bibinitperiod},
+           given={Tuanny},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7d017c5a7c5302d407c0783f5f73aefe}{%
+           family={Sanavia},
+           familyi={S\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2f555d966e87fcfcc23af77b840c31ad}{%
+           family={De\bibnamedelima Lorenzis},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4c46e9577523ce8ad091ba69ebc0dd76}
+      \strng{fullhash}{4c46e9577523ce8ad091ba69ebc0dd76}
+      \strng{bibnamehash}{4c46e9577523ce8ad091ba69ebc0dd76}
+      \strng{authorbibnamehash}{4c46e9577523ce8ad091ba69ebc0dd76}
+      \strng{authornamehash}{4c46e9577523ce8ad091ba69ebc0dd76}
+      \strng{authorfullhash}{4c46e9577523ce8ad091ba69ebc0dd76}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Mechanics}
+      \field{number}{3}
+      \field{title}{Phase-field modeling of fracture in variably saturated porous media}
+      \field{volume}{61}
+      \field{year}{2018}
+      \field{pages}{299\bibrangedash 318}
+      \range{pages}{20}
+    \endentry
+    \entry{HU2020113106}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bfa94520764e692eb2458a7004f93c2d}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Tianchen},
+           giveni={T\bibinitperiod}}}%
+        {{hash=cc70adeb5e4bfa0be30b95e2d1574987}{%
+           family={Guilleminot},
+           familyi={G\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod}}}%
+        {{hash=195c33fa4509cd216f54b59e3ee20fd1}{%
+           family={Dolbow},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfd5b48e97edcfcd42920e452f3d40db}
+      \strng{fullhash}{bfd5b48e97edcfcd42920e452f3d40db}
+      \strng{bibnamehash}{bfd5b48e97edcfcd42920e452f3d40db}
+      \strng{authorbibnamehash}{bfd5b48e97edcfcd42920e452f3d40db}
+      \strng{authornamehash}{bfd5b48e97edcfcd42920e452f3d40db}
+      \strng{authorfullhash}{bfd5b48e97edcfcd42920e452f3d40db}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{A phase-field model of fracture with frictionless contact and random fracture properties: Application to thin-film fracture and soil desiccation}
+      \field{volume}{368}
+      \field{year}{2020}
+      \field{pages}{113106}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2020.113106
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782520302905
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782520302905
+      \endverb
+    \endentry
+    \entry{MARTINEZPANEDA2018742}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d9f997484ced70683177c653ccf84d11}{%
+           family={Martínez-Pañeda},
+           familyi={M\bibinithyphendelim P\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=45bfbf44e8b023b430ca39c9ffa22bcf}{%
+           family={Golahmar},
+           familyi={G\bibinitperiod},
+           given={Alireza},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5df10784ba2d06d71db2c12cf26e7529}{%
+           family={Niordson},
+           familyi={N\bibinitperiod},
+           given={Christian\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{56b8ff344b5fef22a0a7ace770710231}
+      \strng{fullhash}{56b8ff344b5fef22a0a7ace770710231}
+      \strng{bibnamehash}{56b8ff344b5fef22a0a7ace770710231}
+      \strng{authorbibnamehash}{56b8ff344b5fef22a0a7ace770710231}
+      \strng{authornamehash}{56b8ff344b5fef22a0a7ace770710231}
+      \strng{authorfullhash}{56b8ff344b5fef22a0a7ace770710231}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{A phase field formulation for hydrogen assisted cracking}
+      \field{volume}{342}
+      \field{year}{2018}
+      \field{pages}{742\bibrangedash 761}
+      \range{pages}{20}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2018.07.021
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782518303529
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782518303529
+      \endverb
+    \endentry
+    \entry{KRISTENSEN2020104093}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fe06ebd1194cecf02af53086a39a059c}{%
+           family={Kristensen},
+           familyi={K\bibinitperiod},
+           given={Philip\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5df10784ba2d06d71db2c12cf26e7529}{%
+           family={Niordson},
+           familyi={N\bibinitperiod},
+           given={Christian\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d9f997484ced70683177c653ccf84d11}{%
+           family={Martínez-Pañeda},
+           familyi={M\bibinithyphendelim P\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e4833334b2c21a4adff135577a8f52b}
+      \strng{fullhash}{5e4833334b2c21a4adff135577a8f52b}
+      \strng{bibnamehash}{5e4833334b2c21a4adff135577a8f52b}
+      \strng{authorbibnamehash}{5e4833334b2c21a4adff135577a8f52b}
+      \strng{authornamehash}{5e4833334b2c21a4adff135577a8f52b}
+      \strng{authorfullhash}{5e4833334b2c21a4adff135577a8f52b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-5096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{title}{A phase field model for elastic-gradient-plastic solids undergoing hydrogen embrittlement}
+      \field{volume}{143}
+      \field{year}{2020}
+      \field{pages}{104093}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jmps.2020.104093
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022509620303276
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022509620303276
+      \endverb
+    \endentry
+    \entry{Mesgarnejad2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4c0431d94c2884b845abcd03ee781476}{%
+           family={Mesgarnejad},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=09df612dfd3a7661f7bf7308458cee43}{%
+           family={Bourdin},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cb31462483cf12f021721491e50e0016}{%
+           family={Khonsari},
+           familyi={K\bibinitperiod},
+           given={M.M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e45b6b5addcb7189a46b32998efcfb8}
+      \strng{fullhash}{9e45b6b5addcb7189a46b32998efcfb8}
+      \strng{bibnamehash}{9e45b6b5addcb7189a46b32998efcfb8}
+      \strng{authorbibnamehash}{9e45b6b5addcb7189a46b32998efcfb8}
+      \strng{authornamehash}{9e45b6b5addcb7189a46b32998efcfb8}
+      \strng{authorfullhash}{9e45b6b5addcb7189a46b32998efcfb8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-5096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{number}{11}
+      \field{title}{A variational approach to the fracture of brittle thin films subject to out-of-plane loading}
+      \field{volume}{61}
+      \field{year}{2013}
+      \field{pages}{2360\bibrangedash 2379}
+      \range{pages}{20}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jmps.2013.05.001
+      \endverb
+      \keyw{Variational approach to fracture,Brittle fracture,Thin films,Dimension reduction}
+    \endentry
+    \entry{wu2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8b748d2006ec312e54c6649f7faaefd8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8b748d2006ec312e54c6649f7faaefd8}
+      \strng{fullhash}{8b748d2006ec312e54c6649f7faaefd8}
+      \strng{bibnamehash}{8b748d2006ec312e54c6649f7faaefd8}
+      \strng{authorbibnamehash}{8b748d2006ec312e54c6649f7faaefd8}
+      \strng{authornamehash}{8b748d2006ec312e54c6649f7faaefd8}
+      \strng{authorfullhash}{8b748d2006ec312e54c6649f7faaefd8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{title}{A unified phase-field theory for the mechanics of damage and quasi-brittle failure}
+      \field{volume}{103}
+      \field{year}{2017}
+      \field{pages}{72\bibrangedash 99}
+      \range{pages}{28}
+    \endentry
+    \entry{FENG201866}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e5a4f39dab710c5e016ec5d569e635ed}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={De-Cheng},
+           giveni={D\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=8b748d2006ec312e54c6649f7faaefd8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ce220cec9f776e966687c147a7b0c2a}
+      \strng{fullhash}{8ce220cec9f776e966687c147a7b0c2a}
+      \strng{bibnamehash}{8ce220cec9f776e966687c147a7b0c2a}
+      \strng{authorbibnamehash}{8ce220cec9f776e966687c147a7b0c2a}
+      \strng{authornamehash}{8ce220cec9f776e966687c147a7b0c2a}
+      \strng{authorfullhash}{8ce220cec9f776e966687c147a7b0c2a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0013-7944}
+      \field{journaltitle}{Engineering Fracture Mechanics}
+      \field{title}{Phase-field regularized cohesive zone model (CZM) and size effect of concrete}
+      \field{volume}{197}
+      \field{year}{2018}
+      \field{pages}{66\bibrangedash 79}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.engfracmech.2018.04.038
+      \endverb
+      \keyw{Concrete,Size effect,Phase-field model,Cohesive zone model,Damage,Fracture}
+    \endentry
+    \entry{WU2020112614}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8b748d2006ec312e54c6649f7faaefd8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=bfca9ce2a3af00468fb6ccce0cacbf94}{%
+           family={Mandal},
+           familyi={M\bibinitperiod},
+           given={Tushar\bibnamedelima Kanti},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=2861c0b41f9744cb3dc214d96f9927d6}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Vinh\bibnamedelima Phu},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{69968e1b644539a54cc701ed52772060}
+      \strng{fullhash}{69968e1b644539a54cc701ed52772060}
+      \strng{bibnamehash}{69968e1b644539a54cc701ed52772060}
+      \strng{authorbibnamehash}{69968e1b644539a54cc701ed52772060}
+      \strng{authornamehash}{69968e1b644539a54cc701ed52772060}
+      \strng{authorfullhash}{69968e1b644539a54cc701ed52772060}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{A phase-field regularized cohesive zone model for hydrogen assisted cracking}
+      \field{volume}{358}
+      \field{year}{2020}
+      \field{pages}{112614}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2019.112614
+      \endverb
+    \endentry
+    \entry{WU2021114125}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8b748d2006ec312e54c6649f7faaefd8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=218a74117758b3f79ff651ab41c7ec2b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wan-Xin},
+           giveni={W\bibinithyphendelim X\bibinitperiod}}}%
+      }
+      \strng{namehash}{b91bcdc4ab4f98bbb72a23780bde25ae}
+      \strng{fullhash}{b91bcdc4ab4f98bbb72a23780bde25ae}
+      \strng{bibnamehash}{b91bcdc4ab4f98bbb72a23780bde25ae}
+      \strng{authorbibnamehash}{b91bcdc4ab4f98bbb72a23780bde25ae}
+      \strng{authornamehash}{b91bcdc4ab4f98bbb72a23780bde25ae}
+      \strng{authorfullhash}{b91bcdc4ab4f98bbb72a23780bde25ae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Phase-field modeling of electromechanical fracture in piezoelectric solids: Analytical results and numerical simulations}
+      \field{volume}{387}
+      \field{year}{2021}
+      \field{pages}{114125}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2021.114125
+      \endverb
+    \endentry
+    \entry{MANDAL2021113648}{article}{}
+      \name{author}{5}{}{%
+        {{hash=bfca9ce2a3af00468fb6ccce0cacbf94}{%
+           family={Mandal},
+           familyi={M\bibinitperiod},
+           given={Tushar\bibnamedelima Kanti},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=2861c0b41f9744cb3dc214d96f9927d6}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Vinh\bibnamedelima Phu},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8b748d2006ec312e54c6649f7faaefd8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=0c7940c9771a58e4c0d4b67f97fdf041}{%
+           family={Nguyen-Thanh},
+           familyi={N\bibinithyphendelim T\bibinitperiod},
+           given={Chi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63fb60c427dec3b1387e8df208c564c5}{%
+           family={{de Vaucorbeil}},
+           familyi={d\bibinitperiod},
+           given={Alban},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{102c2b90ee181bd99da8f4a1b391f28f}
+      \strng{fullhash}{1b638fdc1072974d6ff11067f9c0d5f6}
+      \strng{bibnamehash}{102c2b90ee181bd99da8f4a1b391f28f}
+      \strng{authorbibnamehash}{102c2b90ee181bd99da8f4a1b391f28f}
+      \strng{authornamehash}{102c2b90ee181bd99da8f4a1b391f28f}
+      \strng{authorfullhash}{1b638fdc1072974d6ff11067f9c0d5f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Fracture of thermo-elastic solids: Phase-field modeling and new results with an efficient monolithic solver}
+      \field{volume}{376}
+      \field{year}{2021}
+      \field{pages}{113648}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2020.113648
+      \endverb
+      \keyw{Quasi-brittle solids,Thermal shock induced fracture,Gradient-damage model,Phase-field theory,Monolithic solver,Fracture}
+    \endentry
+    \entry{patil2019multiscale}{article}{}
+      \name{author}{3}{}{%
+        {{hash=942b4dd471ae7b74177f21d72087c987}{%
+           family={Patil},
+           familyi={P\bibinitperiod},
+           given={RU},
+           giveni={R\bibinitperiod}}}%
+        {{hash=aa7b261dee970da4d39d7e5462792f34}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={BK},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7fc4bc6e4e3a171570fd9b58fd984e4d}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={IV},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e00ef9a09423bb8539d54e7330e4a7d1}
+      \strng{fullhash}{e00ef9a09423bb8539d54e7330e4a7d1}
+      \strng{bibnamehash}{e00ef9a09423bb8539d54e7330e4a7d1}
+      \strng{authorbibnamehash}{e00ef9a09423bb8539d54e7330e4a7d1}
+      \strng{authornamehash}{e00ef9a09423bb8539d54e7330e4a7d1}
+      \strng{authorfullhash}{e00ef9a09423bb8539d54e7330e4a7d1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Theoretical and Applied Fracture Mechanics}
+      \field{title}{A multiscale framework based on phase field method and XFEM to simulate fracture in highly heterogeneous materials}
+      \field{volume}{100}
+      \field{year}{2019}
+      \field{pages}{390\bibrangedash 415}
+      \range{pages}{26}
+    \endentry
+    \entry{gerasimov2018non}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6fd65c43da604b9cec2238be9bfa3207}{%
+           family={Gerasimov},
+           familyi={G\bibinitperiod},
+           given={Tymofiy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e4ac7df3d5f44dfe7192e97378b90c61}{%
+           family={Noii},
+           familyi={N\bibinitperiod},
+           given={Nima},
+           giveni={N\bibinitperiod}}}%
+        {{hash=49cd9a8318578d9cd1ae241ea21a0a78}{%
+           family={Allix},
+           familyi={A\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=2f555d966e87fcfcc23af77b840c31ad}{%
+           family={De\bibnamedelima Lorenzis},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SpringerOpen}%
+      }
+      \strng{namehash}{03e0df6cfa27c4fca61e54823f59cb67}
+      \strng{fullhash}{515c2108082703469896b830a33ff252}
+      \strng{bibnamehash}{03e0df6cfa27c4fca61e54823f59cb67}
+      \strng{authorbibnamehash}{03e0df6cfa27c4fca61e54823f59cb67}
+      \strng{authornamehash}{03e0df6cfa27c4fca61e54823f59cb67}
+      \strng{authorfullhash}{515c2108082703469896b830a33ff252}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced modeling and simulation in engineering sciences}
+      \field{number}{1}
+      \field{title}{A non-intrusive global/local approach applied to phase-field modeling of brittle fracture}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 30}
+      \range{pages}{30}
+    \endentry
+    \entry{nguyen2019multiscale}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e1f70bd7267698c3629c19bb905f6a33}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Lam\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d7e1f30e9d7e69061d55ff91e61a181e}{%
+           family={Schillinger},
+           familyi={S\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{208c0324d24bc29f3ce81251a0030719}
+      \strng{fullhash}{208c0324d24bc29f3ce81251a0030719}
+      \strng{bibnamehash}{208c0324d24bc29f3ce81251a0030719}
+      \strng{authorbibnamehash}{208c0324d24bc29f3ce81251a0030719}
+      \strng{authornamehash}{208c0324d24bc29f3ce81251a0030719}
+      \strng{authorfullhash}{208c0324d24bc29f3ce81251a0030719}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{title}{The multiscale finite element method for nonlinear continuum localization problems at full fine-scale fidelity, illustrated through phase-field fracture and plasticity}
+      \field{volume}{396}
+      \field{year}{2019}
+      \field{pages}{129\bibrangedash 160}
+      \range{pages}{32}
+    \endentry
+    \entry{triantafyllou2020generalized}{article}{}
+      \name{author}{2}{}{%
+        {{hash=14e988d68b249438c651504cfdd12c41}{%
+           family={Triantafyllou},
+           familyi={T\bibinitperiod},
+           given={Savvas\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d6260174b5193aa63d8d81e3d60e8462}{%
+           family={Kakouris},
+           familyi={K\bibinitperiod},
+           given={Emmanouil\bibnamedelima G},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a6b0363079715dbe9fcfe3dc6184cd33}
+      \strng{fullhash}{a6b0363079715dbe9fcfe3dc6184cd33}
+      \strng{bibnamehash}{a6b0363079715dbe9fcfe3dc6184cd33}
+      \strng{authorbibnamehash}{a6b0363079715dbe9fcfe3dc6184cd33}
+      \strng{authornamehash}{a6b0363079715dbe9fcfe3dc6184cd33}
+      \strng{authorfullhash}{a6b0363079715dbe9fcfe3dc6184cd33}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Numerical Methods in Engineering}
+      \field{number}{9}
+      \field{title}{A generalized phase field multiscale finite element method for brittle fracture}
+      \field{volume}{121}
+      \field{year}{2020}
+      \field{pages}{1915\bibrangedash 1945}
+      \range{pages}{31}
+    \endentry
+    \entry{he2020numerical}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e743290b9b5b9cb1a6a12b8f675970f4}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Bang},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1904c173257e09c3a40d4d6521fd19f1}{%
+           family={Schuler},
+           familyi={S\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=821f2573cc0b92b48451aa784817e4c6}{%
+           family={Newell},
+           familyi={N\bibinitperiod},
+           given={Pania},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9bd8b16eef7fcd2aa6b930714041d60f}
+      \strng{fullhash}{9bd8b16eef7fcd2aa6b930714041d60f}
+      \strng{bibnamehash}{9bd8b16eef7fcd2aa6b930714041d60f}
+      \strng{authorbibnamehash}{9bd8b16eef7fcd2aa6b930714041d60f}
+      \strng{authornamehash}{9bd8b16eef7fcd2aa6b930714041d60f}
+      \strng{authorfullhash}{9bd8b16eef7fcd2aa6b930714041d60f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Materials Science}
+      \field{title}{A numerical-homogenization based phase-field fracture modeling of linear elastic heterogeneous porous media}
+      \field{volume}{176}
+      \field{year}{2020}
+      \field{pages}{109519}
+      \range{pages}{1}
+    \endentry
+    \entry{Bharali2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=db2690d3a1d4a61a2109c048464d8d34}{%
+           family={Bharali},
+           familyi={B\bibinitperiod},
+           given={Ritukesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=42bf7ef938d975f2fff292d697bd7a5d}{%
+           family={Larsson},
+           familyi={L\bibinitperiod},
+           given={Fredrik},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d48222519b09d5c8f7916ee8bd900510}{%
+           family={Jänicke},
+           familyi={J\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7095bd95d139925e815b6123177a2973}
+      \strng{fullhash}{7095bd95d139925e815b6123177a2973}
+      \strng{bibnamehash}{7095bd95d139925e815b6123177a2973}
+      \strng{authorbibnamehash}{7095bd95d139925e815b6123177a2973}
+      \strng{authornamehash}{7095bd95d139925e815b6123177a2973}
+      \strng{authorfullhash}{7095bd95d139925e815b6123177a2973}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0997-7538}
+      \field{journaltitle}{European Journal of Mechanics - A/Solids}
+      \field{title}{Computational homogenisation of phase-field fracture}
+      \field{volume}{88}
+      \field{year}{2021}
+      \field{pages}{104247}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.euromechsol.2021.104247
+      \endverb
+      \keyw{Phase-field fracture,Homogenisation,Macro-homogeneity,Multi-scale}
+    \endentry
+    \entry{Gerasimov2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=92db1e5f9cf0017586c138dc6f03f7ab}{%
+           family={Gerasimov},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9b3840ab7049ac7b0b224ba192b90579}{%
+           family={{De Lorenzis}},
+           familyi={D\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7110628f64cf61770c1da5fc8d7a6ec9}
+      \strng{fullhash}{7110628f64cf61770c1da5fc8d7a6ec9}
+      \strng{bibnamehash}{7110628f64cf61770c1da5fc8d7a6ec9}
+      \strng{authorbibnamehash}{7110628f64cf61770c1da5fc8d7a6ec9}
+      \strng{authornamehash}{7110628f64cf61770c1da5fc8d7a6ec9}
+      \strng{authorfullhash}{7110628f64cf61770c1da5fc8d7a6ec9}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00457825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{month}{12}
+      \field{title}{{A line search assisted monolithic approach for phase-field computing of brittle fracture}}
+      \field{volume}{312}
+      \field{year}{2016}
+      \field{pages}{276\bibrangedash 303}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1016/j.cma.2015.12.017
+      \endverb
+    \endentry
+    \entry{kopanivcakova2020recursive}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5849db4311358a96e9b6ea1acab308e9}{%
+           family={Kopaničáková},
+           familyi={K\bibinitperiod},
+           given={Alena},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f25d0b90e1542a87b0c802da0422e77e}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f6c74be24e80e14331cdd77145f11d06}
+      \strng{fullhash}{f6c74be24e80e14331cdd77145f11d06}
+      \strng{bibnamehash}{f6c74be24e80e14331cdd77145f11d06}
+      \strng{authorbibnamehash}{f6c74be24e80e14331cdd77145f11d06}
+      \strng{authornamehash}{f6c74be24e80e14331cdd77145f11d06}
+      \strng{authorfullhash}{f6c74be24e80e14331cdd77145f11d06}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{A recursive multilevel trust region method with application to fully monolithic phase-field models of brittle fracture}
+      \field{volume}{360}
+      \field{year}{2020}
+      \field{pages}{112720}
+      \range{pages}{1}
+    \endentry
+    \entry{wick2017modified}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f395354582e45f0846f55808a8a62b53}{%
+           family={Wick},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{fullhash}{f395354582e45f0846f55808a8a62b53}
+      \strng{bibnamehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{authorbibnamehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{authornamehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{authorfullhash}{f395354582e45f0846f55808a8a62b53}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{Modified Newton methods for solving fully monolithic phase-field quasi-static brittle fracture propagation}
+      \field{volume}{325}
+      \field{year}{2017}
+      \field{pages}{577\bibrangedash 611}
+      \range{pages}{35}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2017.07.026
+      \endverb
+    \endentry
+    \entry{vignollet2014phase}{article}{}
+      \name{author}{4}{}{%
+        {{hash=59a64d639645a632186ce1b803cb0038}{%
+           family={Vignollet},
+           familyi={V\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1fc6209868e2e5f3e739fc7637d6c00e}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ff922ceb8da37ba74ba448fd7d3601e2}{%
+           family={De\bibnamedelima Borst},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d2a35f459bfc28c44498c435ab071e86}{%
+           family={Verhoosel},
+           familyi={V\bibinitperiod},
+           given={Clemens\bibnamedelima V},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{edd14bae436101f227da6d38b84bb77a}
+      \strng{fullhash}{54c7b577bd207d24280dc477643d5fdb}
+      \strng{bibnamehash}{edd14bae436101f227da6d38b84bb77a}
+      \strng{authorbibnamehash}{edd14bae436101f227da6d38b84bb77a}
+      \strng{authornamehash}{edd14bae436101f227da6d38b84bb77a}
+      \strng{authorfullhash}{54c7b577bd207d24280dc477643d5fdb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Meccanica}
+      \field{number}{11}
+      \field{title}{Phase-field models for brittle and cohesive fracture}
+      \field{volume}{49}
+      \field{year}{2014}
+      \field{pages}{2587\bibrangedash 2601}
+      \range{pages}{15}
+    \endentry
+    \entry{may2015numerical}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1fc6209868e2e5f3e739fc7637d6c00e}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=59a64d639645a632186ce1b803cb0038}{%
+           family={Vignollet},
+           familyi={V\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=00329147c2a80f82b1799b424c650ecf}{%
+           family={De\bibnamedelima Borst},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{78ed7e0ae20f731bb4628bc60f491696}
+      \strng{fullhash}{78ed7e0ae20f731bb4628bc60f491696}
+      \strng{bibnamehash}{78ed7e0ae20f731bb4628bc60f491696}
+      \strng{authorbibnamehash}{78ed7e0ae20f731bb4628bc60f491696}
+      \strng{authornamehash}{78ed7e0ae20f731bb4628bc60f491696}
+      \strng{authorfullhash}{78ed7e0ae20f731bb4628bc60f491696}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Mechanics-A/Solids}
+      \field{title}{A numerical assessment of phase-field models for brittle and cohesive fracture: $\Gamma$-convergence and stress oscillations}
+      \field{volume}{52}
+      \field{year}{2015}
+      \field{pages}{72\bibrangedash 84}
+      \range{pages}{13}
+    \endentry
+    \entry{singh2016fracture}{article}{}
+      \name{author}{4}{}{%
+        {{hash=685b19c4bbdaabd91d7592d4b01494ae}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=444058bcc0966c8bc83086594ff880dd}{%
+           family={Verhoosel},
+           familyi={V\bibinitperiod},
+           given={CV},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9c92c8d21c7f0ab04cfe44d37f6ccd4d}{%
+           family={De\bibnamedelima Borst},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f749c03e41eb527fc3484c35a94cd510}{%
+           family={Van\bibnamedelima Brummelen},
+           familyi={V\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={EH},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5474392808aee112b446e09c64d34680}
+      \strng{fullhash}{1783bad39da47ba85833b21cf61f66af}
+      \strng{bibnamehash}{5474392808aee112b446e09c64d34680}
+      \strng{authorbibnamehash}{5474392808aee112b446e09c64d34680}
+      \strng{authornamehash}{5474392808aee112b446e09c64d34680}
+      \strng{authorfullhash}{1783bad39da47ba85833b21cf61f66af}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Finite Elements in Analysis and Design}
+      \field{title}{A fracture-controlled path-following technique for phase-field modeling of brittle fracture}
+      \field{volume}{113}
+      \field{year}{2016}
+      \field{pages}{14\bibrangedash 29}
+      \range{pages}{16}
+    \endentry
+    \entry{BHARALI2022114927}{article}{}
+      \name{author}{4}{}{%
+        {{hash=db2690d3a1d4a61a2109c048464d8d34}{%
+           family={Bharali},
+           familyi={B\bibinitperiod},
+           given={Ritukesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5e3b1d109ffc258f5270f313987d01b4}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={Somdatta},
+           giveni={S\bibinitperiod}}}%
+        {{hash=feae1951c24ccba07404043ba50c2a77}{%
+           family={Anitescu},
+           familyi={A\bibinitperiod},
+           given={Cosmin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0f6ba41beb0e82d9c87026741dd73d48}{%
+           family={Rabczuk},
+           familyi={R\bibinitperiod},
+           given={Timon},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8984652ad4f8ae408f26c5263775ea45}
+      \strng{fullhash}{3bedce796dcb0addc328d958fce5a633}
+      \strng{bibnamehash}{8984652ad4f8ae408f26c5263775ea45}
+      \strng{authorbibnamehash}{8984652ad4f8ae408f26c5263775ea45}
+      \strng{authornamehash}{8984652ad4f8ae408f26c5263775ea45}
+      \strng{authorfullhash}{3bedce796dcb0addc328d958fce5a633}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{A robust monolithic solver for phase-field fracture integrated with fracture energy based arc-length method and under-relaxation}
+      \field{volume}{394}
+      \field{year}{2022}
+      \field{pages}{114927}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2022.114927
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782522001992
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782522001992
+      \endverb
+      \keyw{Phase-field fracture,Brittle material,Monolithic solver,Arc length method,Variational damage,IGA}
+    \endentry
+    \entry{WU2020112704}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8b748d2006ec312e54c6649f7faaefd8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=7f3cb73b36c103b33b5c1af36ca26ef6}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yuli},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2861c0b41f9744cb3dc214d96f9927d6}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Vinh\bibnamedelima Phu},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6237b39147a33345b988bab8c6779300}
+      \strng{fullhash}{6237b39147a33345b988bab8c6779300}
+      \strng{bibnamehash}{6237b39147a33345b988bab8c6779300}
+      \strng{authorbibnamehash}{6237b39147a33345b988bab8c6779300}
+      \strng{authornamehash}{6237b39147a33345b988bab8c6779300}
+      \strng{authorfullhash}{6237b39147a33345b988bab8c6779300}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-7825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{On the BFGS monolithic algorithm for the unified phase field damage theory}
+      \field{volume}{360}
+      \field{year}{2020}
+      \field{pages}{112704}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cma.2019.112704
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782519305924
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0045782519305924
+      \endverb
+      \keyw{Phase-field,Damage,Fracture,BFGS method,Monolithic algorithm,Staggered solver}
+    \endentry
+    \entry{KRISTENSEN2020102446}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fe06ebd1194cecf02af53086a39a059c}{%
+           family={Kristensen},
+           familyi={K\bibinitperiod},
+           given={Philip\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d9f997484ced70683177c653ccf84d11}{%
+           family={Martínez-Pañeda},
+           familyi={M\bibinithyphendelim P\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f373cf38b6d5089b1bb682a615e7b24}
+      \strng{fullhash}{7f373cf38b6d5089b1bb682a615e7b24}
+      \strng{bibnamehash}{7f373cf38b6d5089b1bb682a615e7b24}
+      \strng{authorbibnamehash}{7f373cf38b6d5089b1bb682a615e7b24}
+      \strng{authornamehash}{7f373cf38b6d5089b1bb682a615e7b24}
+      \strng{authorfullhash}{7f373cf38b6d5089b1bb682a615e7b24}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0167-8442}
+      \field{journaltitle}{Theoretical and Applied Fracture Mechanics}
+      \field{title}{Phase field fracture modelling using quasi-Newton methods and a new adaptive step scheme}
+      \field{volume}{107}
+      \field{year}{2020}
+      \field{pages}{102446}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.tafmec.2019.102446
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167844219305580
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167844219305580
+      \endverb
+      \keyw{Phase field fracture,Quasi-Newton,BFGS,Fracture,Finite element analysis}
+    \endentry
+    \entry{Heister2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=456600e9e664a7c39fced202ebc3279b}{%
+           family={Heister},
+           familyi={H\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e43b70228db9fdab2d4d8a5e762f8b20}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={Mary\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f395354582e45f0846f55808a8a62b53}{%
+           family={Wick},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{af4a3efd2e4388351a23f164ce7f7c59}
+      \strng{fullhash}{af4a3efd2e4388351a23f164ce7f7c59}
+      \strng{bibnamehash}{af4a3efd2e4388351a23f164ce7f7c59}
+      \strng{authorbibnamehash}{af4a3efd2e4388351a23f164ce7f7c59}
+      \strng{authornamehash}{af4a3efd2e4388351a23f164ce7f7c59}
+      \strng{authorfullhash}{af4a3efd2e4388351a23f164ce7f7c59}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00457825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{{A primal-dual active set method and predictor-corrector mesh adaptivity for computing fracture propagation using a phase-field approach}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1016/j.cma.2015.03.009
+      \endverb
+      \keyw{Fracture mechanics,Phase-field,Predictor- corrector mesh adaptivity,Primal-dual active set}
+    \endentry
+    \entry{de2020numerical}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=2f555d966e87fcfcc23af77b840c31ad}{%
+           family={De\bibnamedelima Lorenzis},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6fd65c43da604b9cec2238be9bfa3207}{%
+           family={Gerasimov},
+           familyi={G\bibinitperiod},
+           given={Tymofiy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3bcbfa5428430980be44b5066e87d04d}
+      \strng{fullhash}{3bcbfa5428430980be44b5066e87d04d}
+      \strng{bibnamehash}{3bcbfa5428430980be44b5066e87d04d}
+      \strng{authorbibnamehash}{3bcbfa5428430980be44b5066e87d04d}
+      \strng{authornamehash}{3bcbfa5428430980be44b5066e87d04d}
+      \strng{authorfullhash}{3bcbfa5428430980be44b5066e87d04d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Modeling in Engineering Using Innovative Numerical Methods for Solids and Fluids}
+      \field{title}{Numerical implementation of phase-field models of brittle fracture}
+      \field{year}{2020}
+      \field{pages}{75\bibrangedash 101}
+      \range{pages}{27}
+    \endentry
+    \entry{GERASIMOV2019990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6fd65c43da604b9cec2238be9bfa3207}{%
+           family={Gerasimov},
+           familyi={G\bibinitperiod},
+           given={Tymofiy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2f555d966e87fcfcc23af77b840c31ad}{%
+           family={De\bibnamedelima Lorenzis},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{62d42d3bf7e1ae471c23a3aeb37db814}
+      \strng{fullhash}{62d42d3bf7e1ae471c23a3aeb37db814}
+      \strng{bibnamehash}{62d42d3bf7e1ae471c23a3aeb37db814}
+      \strng{authorbibnamehash}{62d42d3bf7e1ae471c23a3aeb37db814}
+      \strng{authornamehash}{62d42d3bf7e1ae471c23a3aeb37db814}
+      \strng{authorfullhash}{62d42d3bf7e1ae471c23a3aeb37db814}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{On penalization in variational phase-field models of brittle fracture}
+      \field{volume}{354}
+      \field{year}{2019}
+      \field{pages}{990\bibrangedash 1026}
+      \range{pages}{37}
+    \endentry
+    \entry{Wick2017a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f395354582e45f0846f55808a8a62b53}{%
+           family={Wick},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{fullhash}{f395354582e45f0846f55808a8a62b53}
+      \strng{bibnamehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{authorbibnamehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{authornamehash}{f395354582e45f0846f55808a8a62b53}
+      \strng{authorfullhash}{f395354582e45f0846f55808a8a62b53}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1064-8275}
+      \field{journaltitle}{SIAM Journal on Scientific Computing}
+      \field{number}{4}
+      \field{title}{{An Error-Oriented Newton/Inexact Augmented Lagrangian Approach for Fully Monolithic Phase-Field Fracture Propagation}}
+      \field{volume}{39}
+      \field{year}{2017}
+      \field{pages}{B589\bibrangedash B617}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1137/16m1063873
+      \endverb
+    \endentry
+    \entry{Miehe2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dbb333dab2164d6ba05c0ebf1bbc5174}{%
+           family={Miehe},
+           familyi={M\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=24e70949665803f9e15499ca25e3edc6}{%
+           family={Hofacker},
+           familyi={H\bibinitperiod},
+           given={Martina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=35e9a368525a2f3e5584460cfb7ee337}{%
+           family={Welschinger},
+           familyi={W\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{46a2a7b0e8a6264457c09f5758a60dbd}
+      \strng{fullhash}{46a2a7b0e8a6264457c09f5758a60dbd}
+      \strng{bibnamehash}{46a2a7b0e8a6264457c09f5758a60dbd}
+      \strng{authorbibnamehash}{46a2a7b0e8a6264457c09f5758a60dbd}
+      \strng{authornamehash}{46a2a7b0e8a6264457c09f5758a60dbd}
+      \strng{authorfullhash}{46a2a7b0e8a6264457c09f5758a60dbd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00457825}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{number}{45-48}
+      \field{title}{{A phase field model for rate-independent crack propagation: Robust algorithmic implementation based on operator splits}}
+      \field{volume}{199}
+      \field{year}{2010}
+      \field{pages}{2765\bibrangedash 2778}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.cma.2010.04.011
+      \endverb
+      \keyw{Coupled multi-field problem,Crack propagation,Finite elements,Fracture,Gradient-type damage,Incremental variational principles,Phase fields}
+    \endentry
+    \entry{forest2009micromorphic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=80fba63977c9cef3695a99662ff8e8c7}{%
+           family={Forest},
+           familyi={F\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Civil Engineers}%
+      }
+      \strng{namehash}{80fba63977c9cef3695a99662ff8e8c7}
+      \strng{fullhash}{80fba63977c9cef3695a99662ff8e8c7}
+      \strng{bibnamehash}{80fba63977c9cef3695a99662ff8e8c7}
+      \strng{authorbibnamehash}{80fba63977c9cef3695a99662ff8e8c7}
+      \strng{authornamehash}{80fba63977c9cef3695a99662ff8e8c7}
+      \strng{authorfullhash}{80fba63977c9cef3695a99662ff8e8c7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Engineering Mechanics}
+      \field{number}{3}
+      \field{title}{Micromorphic approach for gradient elasticity, viscoplasticity, and damage}
+      \field{volume}{135}
+      \field{year}{2009}
+      \field{pages}{117\bibrangedash 131}
+      \range{pages}{15}
+    \endentry
+    \entry{Forest2014}{inbook}{}
+      \name{author}{5}{}{%
+        {{hash=80fba63977c9cef3695a99662ff8e8c7}{%
+           family={Forest},
+           familyi={F\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c3bfab933636093d2a9e51b3778b5cd5}{%
+           family={Ammar},
+           familyi={A\bibinitperiod},
+           given={Kais},
+           giveni={K\bibinitperiod}}}%
+        {{hash=efb274a774e7f541322b1051e29eeaee}{%
+           family={Appolaire},
+           familyi={A\bibinitperiod},
+           given={Benoît},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7011a89998e663ef88ff055bd7df4c43}{%
+           family={Cordero},
+           familyi={C\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e514346736f9bb438909683d02b72b78}{%
+           family={Gaubert},
+           familyi={G\bibinitperiod},
+           given={Anaïs},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9225ae66dcb9458a85d6a981abc5cf3f}{%
+           family={Schröder},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1f55d30eb04f44157f3d39956bf97856}{%
+           family={Hackl},
+           familyi={H\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vienna}%
+      }
+      \strng{namehash}{fcef2778a19192592074aebe5fba2e4b}
+      \strng{fullhash}{4c7496b69fd1e64ecbf93ae82c39d97c}
+      \strng{bibnamehash}{fcef2778a19192592074aebe5fba2e4b}
+      \strng{authorbibnamehash}{fcef2778a19192592074aebe5fba2e4b}
+      \strng{authornamehash}{fcef2778a19192592074aebe5fba2e4b}
+      \strng{authorfullhash}{4c7496b69fd1e64ecbf93ae82c39d97c}
+      \strng{editorbibnamehash}{2d16f0a456a11cf5b122836d67ce0dac}
+      \strng{editornamehash}{2d16f0a456a11cf5b122836d67ce0dac}
+      \strng{editorfullhash}{2d16f0a456a11cf5b122836d67ce0dac}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Plasticity and Beyond: Microstructures, Crystal-Plasticity and Phase Transitions}
+      \field{isbn}{978-3-7091-1625-8}
+      \field{title}{Micromorphic approach to crystal plasticity and phase transformation}
+      \field{year}{2014}
+      \field{pages}{131\bibrangedash 198}
+      \range{pages}{68}
+      \verb{doi}
+      \verb 10.1007/978-3-7091-1625-8_3
+      \endverb
+    \endentry
+    \entry{ASLAN20111311}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8f6b078575d8a86e9b2e37aab0f660b9}{%
+           family={Aslan},
+           familyi={A\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=317002af22651bd79fe923070d228dd4}{%
+           family={Cordero},
+           familyi={C\bibinitperiod},
+           given={N.M.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=27166b833fe8e13a0447dc4188436ebe}{%
+           family={Gaubert},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=db78bffa5af2ec02b03a6e1bfa684909}{%
+           family={Forest},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7b2b474b12736930d81f5e548ee8dd2}
+      \strng{fullhash}{c7d4d25bca057d0a3e71936c08cc4b34}
+      \strng{bibnamehash}{c7b2b474b12736930d81f5e548ee8dd2}
+      \strng{authorbibnamehash}{c7b2b474b12736930d81f5e548ee8dd2}
+      \strng{authornamehash}{c7b2b474b12736930d81f5e548ee8dd2}
+      \strng{authorfullhash}{c7d4d25bca057d0a3e71936c08cc4b34}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-7225}
+      \field{journaltitle}{International Journal of Engineering Science}
+      \field{note}{Advances in generalized continuum mechanics}
+      \field{number}{12}
+      \field{title}{Micromorphic approach to single crystal plasticity and damage}
+      \field{volume}{49}
+      \field{year}{2011}
+      \field{pages}{1311\bibrangedash 1325}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijengsci.2011.03.008
+      \endverb
+    \endentry
+    \entry{LINDROOS2022103187}{article}{}
+      \name{author}{8}{}{%
+        {{hash=773b3ac500c825c7a01dfb22faf1fa3b}{%
+           family={Lindroos},
+           familyi={L\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=51d1d0891191e16d63e552b008cae09c}{%
+           family={Scherer},
+           familyi={S\bibinitperiod},
+           given={Jean-Michel},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=80fba63977c9cef3695a99662ff8e8c7}{%
+           family={Forest},
+           familyi={F\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d6f2878514dde6914e202cdaeedbc35b}{%
+           family={Laukkanen},
+           familyi={L\bibinitperiod},
+           given={Anssi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=489b4355768428b459877f9d2ddc411b}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0ada707f76721fa0459f0505f2dda4f0}{%
+           family={Vaara},
+           familyi={V\bibinitperiod},
+           given={Joona},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2b75a8ab65b8894ada614ec8e8870626}{%
+           family={Mäntylä},
+           familyi={M\bibinitperiod},
+           given={Antti},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bb7c1bb55751b7b36e46cc80e8403a4f}{%
+           family={Frondelius},
+           familyi={F\bibinitperiod},
+           given={Tero},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{feab6d1cd53d1e205c8a5d216a5a2043}
+      \strng{fullhash}{f30f17f223295a285b4ec5f975f9ccbd}
+      \strng{bibnamehash}{feab6d1cd53d1e205c8a5d216a5a2043}
+      \strng{authorbibnamehash}{feab6d1cd53d1e205c8a5d216a5a2043}
+      \strng{authornamehash}{feab6d1cd53d1e205c8a5d216a5a2043}
+      \strng{authorfullhash}{f30f17f223295a285b4ec5f975f9ccbd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0749-6419}
+      \field{journaltitle}{International Journal of Plasticity}
+      \field{title}{Micromorphic crystal plasticity approach to damage regularization and size effects in martensitic steels}
+      \field{volume}{151}
+      \field{year}{2022}
+      \field{pages}{103187}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijplas.2021.103187
+      \endverb
+      \keyw{Micromorphic,Gradient plasticity,Crystal plasticity,Damage}
+    \endentry
+    \entry{GRAMMENOUDIS2010140}{article}{}
+      \name{author}{3}{}{%
+        {{hash=071a94ee4199b9bfedda7cf8e879ece5}{%
+           family={Grammenoudis},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bb319d0fa7934b15c1d96f31df2838a6}{%
+           family={Tsakmakis},
+           familyi={T\bibinitperiod},
+           given={Ch.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=dd213544a368f71ad4e78a2b0b112bca}{%
+           family={Hofer},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{fullhash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{bibnamehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{authorbibnamehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{authornamehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{authorfullhash}{5f6a2499e9286c70a5115852b6732511}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-7462}
+      \field{journaltitle}{International Journal of Non-Linear Mechanics}
+      \field{number}{2}
+      \field{title}{Micromorphic continuum. Part III: Small deformation plasticity coupled with damage}
+      \field{volume}{45}
+      \field{year}{2010}
+      \field{pages}{140\bibrangedash 148}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijnonlinmec.2009.10.003
+      \endverb
+      \keyw{Micromorphic plasticity,Finite deformation,Isotropic and kinematic hardening rules,Isotropic continuum damage mechanics,Finite element implementation}
+    \endentry
+    \entry{GRAMMENOUDIS2009957}{article}{}
+      \name{author}{3}{}{%
+        {{hash=071a94ee4199b9bfedda7cf8e879ece5}{%
+           family={Grammenoudis},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bb319d0fa7934b15c1d96f31df2838a6}{%
+           family={Tsakmakis},
+           familyi={T\bibinitperiod},
+           given={Ch.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=dd213544a368f71ad4e78a2b0b112bca}{%
+           family={Hofer},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{fullhash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{bibnamehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{authorbibnamehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{authornamehash}{5f6a2499e9286c70a5115852b6732511}
+      \strng{authorfullhash}{5f6a2499e9286c70a5115852b6732511}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-7462}
+      \field{journaltitle}{International Journal of Non-Linear Mechanics}
+      \field{number}{9}
+      \field{title}{Micromorphic continuum. Part II: Finite deformation plasticity coupled with damage}
+      \field{volume}{44}
+      \field{year}{2009}
+      \field{pages}{957\bibrangedash 974}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijnonlinmec.2009.05.004
+      \endverb
+    \endentry
+    \entry{Miehe2016micromorphic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=61e54d1deddbf46f0bcab0d3bd0be24f}{%
+           family={Miehe},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0532d35a1002fec853a28a72682e42db}{%
+           family={Teichtmeister},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1b1f8b8150d6d149dc7064f6c1c07116}{%
+           family={Aldakheel},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{36d12a5b48092223500501ab699871b1}
+      \strng{fullhash}{36d12a5b48092223500501ab699871b1}
+      \strng{bibnamehash}{36d12a5b48092223500501ab699871b1}
+      \strng{authorbibnamehash}{36d12a5b48092223500501ab699871b1}
+      \strng{authornamehash}{36d12a5b48092223500501ab699871b1}
+      \strng{authorfullhash}{36d12a5b48092223500501ab699871b1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{number}{2066}
+      \field{title}{Phase-field modelling of ductile fracture: a variational gradient-extended plasticity-damage theory and its micromorphic regularization}
+      \field{volume}{374}
+      \field{year}{2016}
+      \field{pages}{20150170}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsta.2015.0170
+      \endverb
+    \endentry
+    \entry{Gerke1993dualporosity}{article}{}
+      \name{author}{2}{}{%
+        {{hash=401ceb12e91bbaa2e1b2ed225720138f}{%
+           family={Gerke},
+           familyi={G\bibinitperiod},
+           given={H.\bibnamedelimi H.},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6c899891304287fe14501f29399c3255}{%
+           family={Genuchten},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c57107ddc30003f7018191133f1ce9e}
+      \strng{fullhash}{5c57107ddc30003f7018191133f1ce9e}
+      \strng{bibnamehash}{5c57107ddc30003f7018191133f1ce9e}
+      \strng{authorbibnamehash}{5c57107ddc30003f7018191133f1ce9e}
+      \strng{authornamehash}{5c57107ddc30003f7018191133f1ce9e}
+      \strng{authorfullhash}{5c57107ddc30003f7018191133f1ce9e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{number}{2}
+      \field{title}{A dual-porosity model for simulating the preferential movement of water and solutes in structured porous media}
+      \field{volume}{29}
+      \field{year}{1993}
+      \field{pages}{305\bibrangedash 319}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1029/92WR02339
+      \endverb
+      \verb{urlraw}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/92WR02339
+      \endverb
+      \verb{url}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/92WR02339
+      \endverb
+    \endentry
+    \entry{Lee1999}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7a77c34fcfece4e16ec6a137cb944647}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jeongwoo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e808ba5bcfc27455570a370b25ae0ee3}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Sung-Uk},
+           giveni={S\bibinithyphendelim U\bibinitperiod}}}%
+        {{hash=e96a0ba08893103d4747ce74bc1cdd2d}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Woncheol},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{90b29a75f91fb91769db527ed58abf3a}
+      \strng{fullhash}{90b29a75f91fb91769db527ed58abf3a}
+      \strng{bibnamehash}{90b29a75f91fb91769db527ed58abf3a}
+      \strng{authorbibnamehash}{90b29a75f91fb91769db527ed58abf3a}
+      \strng{authornamehash}{90b29a75f91fb91769db527ed58abf3a}
+      \strng{authorfullhash}{90b29a75f91fb91769db527ed58abf3a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1976-3808}
+      \field{journaltitle}{KSCE Journal of Civil Engineering}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{A comparative study of dual-porosity model and discrete fracture network model}
+      \field{volume}{3}
+      \field{year}{1999}
+      \field{pages}{171\bibrangedash 180}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/BF02829057
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/BF02829057
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/BF02829057
+      \endverb
+    \endentry
+    \entry{Witherspoon1980cubic}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bf18b28263f8c7a6ad0e8ca1c5f6b442}{%
+           family={Witherspoon},
+           familyi={W\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7e47a6c487978fef25ce3f3d321ebd32}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi S.\bibnamedelimi Y.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=dcc234b0f9bbb380808eaeeb2a72afe3}{%
+           family={Iwai},
+           familyi={I\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=22dc8e0e84e0afb4be441c6b00284929}{%
+           family={Gale},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2fe4c0d0b0dfe609866d7782ac6b4bc}
+      \strng{fullhash}{80f7b95d1d020248c576158bfd47e523}
+      \strng{bibnamehash}{c2fe4c0d0b0dfe609866d7782ac6b4bc}
+      \strng{authorbibnamehash}{c2fe4c0d0b0dfe609866d7782ac6b4bc}
+      \strng{authornamehash}{c2fe4c0d0b0dfe609866d7782ac6b4bc}
+      \strng{authorfullhash}{80f7b95d1d020248c576158bfd47e523}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{number}{6}
+      \field{title}{Validity of Cubic Law for fluid flow in a deformable rock fracture}
+      \field{volume}{16}
+      \field{year}{1980}
+      \field{pages}{1016\bibrangedash 1024}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1029/WR016i006p01016
+      \endverb
+      \verb{urlraw}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR016i006p01016
+      \endverb
+      \verb{url}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR016i006p01016
+      \endverb
+    \endentry
+    \entry{MIEHE2015186Biot}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dbb333dab2164d6ba05c0ebf1bbc5174}{%
+           family={Miehe},
+           familyi={M\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=479812134b31471b0fca83db2ed22c21}{%
+           family={Mauthe},
+           familyi={M\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dd200f2da1a24b07dc0af2979d847511}{%
+           family={Teichtmeister},
+           familyi={T\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{418894fefb58e2424f43b975b054ef97}
+      \strng{fullhash}{418894fefb58e2424f43b975b054ef97}
+      \strng{bibnamehash}{418894fefb58e2424f43b975b054ef97}
+      \strng{authorbibnamehash}{418894fefb58e2424f43b975b054ef97}
+      \strng{authornamehash}{418894fefb58e2424f43b975b054ef97}
+      \strng{authorfullhash}{418894fefb58e2424f43b975b054ef97}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-5096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{title}{Minimization principles for the coupled problem of Darcy–Biot-type fluid transport in porous media linked to phase field modeling of fracture}
+      \field{volume}{82}
+      \field{year}{2015}
+      \field{pages}{186\bibrangedash 217}
+      \range{pages}{32}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jmps.2015.04.006
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022509615000733
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022509615000733
+      \endverb
+      \keyw{Variational principles,Coupled problems,Porous media,Consolidation,Fracture,Finite element analysis}
+    \endentry
+    \entry{winkler2001traglastuntersuchungen}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dbfe693fad8960811f1d341fd3f15c14}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={Bernhard\bibnamedelima Josef},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Innsbruck University Press}%
+      }
+      \strng{namehash}{dbfe693fad8960811f1d341fd3f15c14}
+      \strng{fullhash}{dbfe693fad8960811f1d341fd3f15c14}
+      \strng{bibnamehash}{dbfe693fad8960811f1d341fd3f15c14}
+      \strng{authorbibnamehash}{dbfe693fad8960811f1d341fd3f15c14}
+      \strng{authornamehash}{dbfe693fad8960811f1d341fd3f15c14}
+      \strng{authorfullhash}{dbfe693fad8960811f1d341fd3f15c14}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Traglastuntersuchungen von unbewehrten und bewehrten Betonstrukturen auf der Grundlage eines objektiven Werkstoffgesetzes für Beton}
+      \field{year}{2001}
+    \endentry
+    \entry{Rots1988}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=87b0f4204d1b256c1c30474bd719c3f1}{%
+           family={Rots},
+           familyi={R\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Technische Universiteit Delft}%
+      }
+      \list{location}{1}{%
+        {Building 23, Stevinweg 1, 2628 CN, Delft, The Netherlands}%
+      }
+      \strng{namehash}{87b0f4204d1b256c1c30474bd719c3f1}
+      \strng{fullhash}{87b0f4204d1b256c1c30474bd719c3f1}
+      \strng{bibnamehash}{87b0f4204d1b256c1c30474bd719c3f1}
+      \strng{authorbibnamehash}{87b0f4204d1b256c1c30474bd719c3f1}
+      \strng{authornamehash}{87b0f4204d1b256c1c30474bd719c3f1}
+      \strng{authorfullhash}{87b0f4204d1b256c1c30474bd719c3f1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computational modeling of concrete fracture}
+      \field{type}{phdthesis}
+      \field{year}{1988}
+    \endentry
+    \entry{Mikelic2015fluidfrac}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c76d177fd9dca09c3c0ffce2b94e7fd9}{%
+           family={Mikelić},
+           familyi={M\bibinitperiod},
+           given={Andro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e43b70228db9fdab2d4d8a5e762f8b20}{%
+           family={Wheeler},
+           familyi={W\bibinitperiod},
+           given={Mary\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f395354582e45f0846f55808a8a62b53}{%
+           family={Wick},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c934e29b8f28553ea73e5479c9bd3382}
+      \strng{fullhash}{c934e29b8f28553ea73e5479c9bd3382}
+      \strng{bibnamehash}{c934e29b8f28553ea73e5479c9bd3382}
+      \strng{authorbibnamehash}{c934e29b8f28553ea73e5479c9bd3382}
+      \strng{authornamehash}{c934e29b8f28553ea73e5479c9bd3382}
+      \strng{authorfullhash}{c934e29b8f28553ea73e5479c9bd3382}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Multiscale Modeling \& Simulation}
+      \field{number}{1}
+      \field{title}{A Phase-Field Method for Propagating Fluid-Filled Fractures Coupled to a Surrounding Porous Medium}
+      \field{volume}{13}
+      \field{year}{2015}
+      \field{pages}{367\bibrangedash 398}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1137/140967118
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1137/140967118
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1137/140967118
+      \endverb
+    \endentry
+    \entry{pham2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6ae32278efcf47fdffbff3f3042c93f8}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5d98dea092eb9df848d78b660d8cbf4d}{%
+           family={Amor},
+           familyi={A\bibinitperiod},
+           given={Hanen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=15ca9a759033b48c6a2cc9cea028d729}{%
+           family={Marigo},
+           familyi={M\bibinitperiod},
+           given={Jean-Jacques},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=4c405dd253dab1aaab55fd6eede7f0d4}{%
+           family={Maurini},
+           familyi={M\bibinitperiod},
+           given={Corrado},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{ddb553d3246bede239311e5bbfaec47c}
+      \strng{fullhash}{7f2eee10d6508e0e36f5125813da2379}
+      \strng{bibnamehash}{ddb553d3246bede239311e5bbfaec47c}
+      \strng{authorbibnamehash}{ddb553d3246bede239311e5bbfaec47c}
+      \strng{authornamehash}{ddb553d3246bede239311e5bbfaec47c}
+      \strng{authorfullhash}{7f2eee10d6508e0e36f5125813da2379}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Damage Mechanics}
+      \field{number}{4}
+      \field{title}{Gradient damage models and their use to approximate brittle fracture}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{618\bibrangedash 652}
+      \range{pages}{35}
+    \endentry
+    \entry{cornelissen1986experimental}{article}{}
+      \name{author}{3}{}{%
+        {{hash=157ddf01299d6b1f23b94968f8fecaad}{%
+           family={Cornelissen},
+           familyi={C\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b44663085cf62617aeb2ccfd75b2e8d2}{%
+           family={Hordijk},
+           familyi={H\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=83ad65f3b2c9a2271d2372a2801e41b8}{%
+           family={Reinhardt},
+           familyi={R\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5868c9d6ef9455754f05acaf6f78d1a0}
+      \strng{fullhash}{5868c9d6ef9455754f05acaf6f78d1a0}
+      \strng{bibnamehash}{5868c9d6ef9455754f05acaf6f78d1a0}
+      \strng{authorbibnamehash}{5868c9d6ef9455754f05acaf6f78d1a0}
+      \strng{authornamehash}{5868c9d6ef9455754f05acaf6f78d1a0}
+      \strng{authorfullhash}{5868c9d6ef9455754f05acaf6f78d1a0}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heron}
+      \field{number}{2}
+      \field{title}{Experimental determination of crack softening characteristics of normalweight and lightweight}
+      \field{volume}{31}
+      \field{year}{1986}
+      \field{pages}{45\bibrangedash 46}
+      \range{pages}{2}
+    \endentry
+    \entry{amor2009regularized}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5d98dea092eb9df848d78b660d8cbf4d}{%
+           family={Amor},
+           familyi={A\bibinitperiod},
+           given={Hanen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=15ca9a759033b48c6a2cc9cea028d729}{%
+           family={Marigo},
+           familyi={M\bibinitperiod},
+           given={Jean-Jacques},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=4c405dd253dab1aaab55fd6eede7f0d4}{%
+           family={Maurini},
+           familyi={M\bibinitperiod},
+           given={Corrado},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{db506fc982e7b9030ace802ff71d7e9a}
+      \strng{fullhash}{db506fc982e7b9030ace802ff71d7e9a}
+      \strng{bibnamehash}{db506fc982e7b9030ace802ff71d7e9a}
+      \strng{authorbibnamehash}{db506fc982e7b9030ace802ff71d7e9a}
+      \strng{authornamehash}{db506fc982e7b9030ace802ff71d7e9a}
+      \strng{authorfullhash}{db506fc982e7b9030ace802ff71d7e9a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{number}{8}
+      \field{title}{Regularized formulation of the variational brittle fracture with unilateral contact: Numerical experiments}
+      \field{volume}{57}
+      \field{year}{2009}
+      \field{pages}{1209\bibrangedash 1229}
+      \range{pages}{21}
+    \endentry
+    \entry{Hintermuller2002}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bbac70322d7d3c7a2d03528fa04a15ea}{%
+           family={Hintermüller},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c1d8fcbbebf676d1647e05b163b3a5a1}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a997e2b9bda41efa41195797669e9ea0}{%
+           family={Kunisch},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d87d73ad08d7af1067ad3ad43c0ce58}
+      \strng{fullhash}{5d87d73ad08d7af1067ad3ad43c0ce58}
+      \strng{bibnamehash}{5d87d73ad08d7af1067ad3ad43c0ce58}
+      \strng{authorbibnamehash}{5d87d73ad08d7af1067ad3ad43c0ce58}
+      \strng{authornamehash}{5d87d73ad08d7af1067ad3ad43c0ce58}
+      \strng{authorfullhash}{5d87d73ad08d7af1067ad3ad43c0ce58}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal on Optimization}
+      \field{number}{3}
+      \field{title}{The Primal-Dual Active Set Strategy as a Semismooth Newton Method}
+      \field{volume}{13}
+      \field{year}{2002}
+      \field{pages}{865\bibrangedash 888}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1137/S1052623401383558
+      \endverb
+    \endentry
+    \entry{zienkiewicz1977finite}{book}{}
+      \name{author}{4}{}{%
+        {{hash=8c1ef34732f2da8dfbc278ee623fd7e8}{%
+           family={Zienkiewicz},
+           familyi={Z\bibinitperiod},
+           given={Olgierd\bibnamedelima Cecil},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=68637a738077642fe01ae572988f1e2b}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Robert\bibnamedelima Leroy},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=528850b1bb5edcb644646d815b026e46}{%
+           family={Nithiarasu},
+           familyi={N\bibinitperiod},
+           given={Perumal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fef3dbba67e95b4c57579394e390b1db}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={JZ},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-hill London}%
+      }
+      \strng{namehash}{b1b7ea5e334dc7e25d7f9286f17b7478}
+      \strng{fullhash}{03b7054eedc86d0a32e42770de4ed9b6}
+      \strng{bibnamehash}{b1b7ea5e334dc7e25d7f9286f17b7478}
+      \strng{authorbibnamehash}{b1b7ea5e334dc7e25d7f9286f17b7478}
+      \strng{authornamehash}{b1b7ea5e334dc7e25d7f9286f17b7478}
+      \strng{authorfullhash}{03b7054eedc86d0a32e42770de4ed9b6}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The finite element method}
+      \field{volume}{3}
+      \field{year}{1977}
+    \endentry
+    \entry{hughes2012finite}{book}{}
+      \name{author}{1}{}{%
+        {{hash=50c8dec26f5cfba91c3a36075c1967c6}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima JR},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Courier Corporation}%
+      }
+      \strng{namehash}{50c8dec26f5cfba91c3a36075c1967c6}
+      \strng{fullhash}{50c8dec26f5cfba91c3a36075c1967c6}
+      \strng{bibnamehash}{50c8dec26f5cfba91c3a36075c1967c6}
+      \strng{authorbibnamehash}{50c8dec26f5cfba91c3a36075c1967c6}
+      \strng{authornamehash}{50c8dec26f5cfba91c3a36075c1967c6}
+      \strng{authorfullhash}{50c8dec26f5cfba91c3a36075c1967c6}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The finite element method: linear static and dynamic finite element analysis}
+      \field{year}{2012}
+    \endentry
+    \entry{de2012nonlinear}{book}{}
+      \name{author}{4}{}{%
+        {{hash=ff922ceb8da37ba74ba448fd7d3601e2}{%
+           family={De\bibnamedelima Borst},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8a3c77a5ae14595cf05f69407ef2671d}{%
+           family={Crisfield},
+           familyi={C\bibinitperiod},
+           given={Mike\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e84d1f36cf53506a976e896c564957f2}{%
+           family={Remmers},
+           familyi={R\bibinitperiod},
+           given={Joris\bibnamedelima JC},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d2a35f459bfc28c44498c435ab071e86}{%
+           family={Verhoosel},
+           familyi={V\bibinitperiod},
+           given={Clemens\bibnamedelima V},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{5101b4c8bc63ddc704d0b932801fd7f9}
+      \strng{fullhash}{5947e3e12c71a67732b70603bce25164}
+      \strng{bibnamehash}{5101b4c8bc63ddc704d0b932801fd7f9}
+      \strng{authorbibnamehash}{5101b4c8bc63ddc704d0b932801fd7f9}
+      \strng{authornamehash}{5101b4c8bc63ddc704d0b932801fd7f9}
+      \strng{authorfullhash}{5947e3e12c71a67732b70603bce25164}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nonlinear finite element analysis of solids and structures}
+      \field{year}{2012}
+    \endentry
+    \entry{zienkiewicz1999computational}{book}{}
+      \name{author}{5}{}{%
+        {{hash=4ed6475051825aec46468d5afb061d6c}{%
+           family={Zienkiewicz},
+           familyi={Z\bibinitperiod},
+           given={Olgierd\bibnamedelima C},
+           giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=98cfffe4bb743dbca1b50a0432c8498e}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={AHC},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0cda1c97a1a9f436a9bebc68c32b7a49}{%
+           family={Pastor},
+           familyi={P\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0edb2f85c1128ab2dee64d1f479d43eb}{%
+           family={Schrefler},
+           familyi={S\bibinitperiod},
+           given={BA},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4b5e4de08db35c5c85d1ca3f33e28ac8}{%
+           family={Shiomi},
+           familyi={S\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{afb4633861899fc5a0b2b9975c0d42c3}
+      \strng{fullhash}{80736e0255c383df729a0eb7fc3368da}
+      \strng{bibnamehash}{afb4633861899fc5a0b2b9975c0d42c3}
+      \strng{authorbibnamehash}{afb4633861899fc5a0b2b9975c0d42c3}
+      \strng{authornamehash}{afb4633861899fc5a0b2b9975c0d42c3}
+      \strng{authorfullhash}{80736e0255c383df729a0eb7fc3368da}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computational geomechanics}
+      \field{volume}{613}
+      \field{year}{1999}
+    \endentry
+    \entry{chukwudozie2019variational}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e4796b6023fd99c990f5ac2cc5ad3e74}{%
+           family={Chukwudozie},
+           familyi={C\bibinitperiod},
+           given={Chukwudi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3725f0c714c8387af383c9aba1a12d74}{%
+           family={Bourdin},
+           familyi={B\bibinitperiod},
+           given={Blaise},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b031baada5b8fe8418bc26b6f510ecba}{%
+           family={Yoshioka},
+           familyi={Y\bibinitperiod},
+           given={Keita},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dc7d9710370ff38d8fd667068e990c01}
+      \strng{fullhash}{dc7d9710370ff38d8fd667068e990c01}
+      \strng{bibnamehash}{dc7d9710370ff38d8fd667068e990c01}
+      \strng{authorbibnamehash}{dc7d9710370ff38d8fd667068e990c01}
+      \strng{authornamehash}{dc7d9710370ff38d8fd667068e990c01}
+      \strng{authorfullhash}{dc7d9710370ff38d8fd667068e990c01}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+      \field{title}{A variational phase-field model for hydraulic fracturing in porous media}
+      \field{volume}{347}
+      \field{year}{2019}
+      \field{pages}{957\bibrangedash 982}
+      \range{pages}{26}
+    \endentry
+    \entry{Ambati2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d9752dcd8233a44bff126e15176bd807}{%
+           family={Ambati},
+           familyi={A\bibinitperiod},
+           given={Marreddy},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6fd65c43da604b9cec2238be9bfa3207}{%
+           family={Gerasimov},
+           familyi={G\bibinitperiod},
+           given={Tymofiy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2f555d966e87fcfcc23af77b840c31ad}{%
+           family={De\bibnamedelima Lorenzis},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{5df58a3422931dd3561d123df35d18ec}
+      \strng{fullhash}{5df58a3422931dd3561d123df35d18ec}
+      \strng{bibnamehash}{5df58a3422931dd3561d123df35d18ec}
+      \strng{authorbibnamehash}{5df58a3422931dd3561d123df35d18ec}
+      \strng{authornamehash}{5df58a3422931dd3561d123df35d18ec}
+      \strng{authorfullhash}{5df58a3422931dd3561d123df35d18ec}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this contribution we address the issue of efficient finite element treatment for phase-field modeling of brittle fracture. We start by providing an overview of the existing quasi-static and dynamic phase-field fracture formulations from the physics and the mechanics communities. Within the formulations stemming from Griffith's theory, we focus on quasi-static models featuring a tension-compression split, which prevent cracking in compression and interpenetration of the crack faces upon closure, and on the staggered algorithmic implementation due to its proved robustness. In this paper, we establish an appropriate stopping criterion for the staggered scheme. Moreover, we propose and test the so-called hybrid formulation, which leads within a staggered implementation to an incrementally linear problem. This enables a significant reduction of computational cost---about one order of magnitude---with respect to the available (non-linear) models. The conceptual and structural similarities of the hybrid formulation to gradient-enhanced continuum damage mechanics are outlined as well. Several benchmark problems are solved, including one with own experimental verification.}
+      \field{issn}{1432-0924}
+      \field{journaltitle}{Computational Mechanics}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{A review on phase-field models of brittle fracture and a new fast hybrid formulation}
+      \field{volume}{55}
+      \field{year}{2015}
+      \field{pages}{383\bibrangedash 405}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s00466-014-1109-y
+      \endverb
+    \endentry
+    \entry{unger2007modelling}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a78f46841138813240948949488fb3b0}{%
+           family={Unger},
+           familyi={U\bibinitperiod},
+           given={Jörg\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=696cc5fe4436305fee6873bd7e9f9562}{%
+           family={Eckardt},
+           familyi={E\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d1effa3fdda6af3fcaa2e752a45af821}{%
+           family={Könke},
+           familyi={K\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e0efcb3cb131507b49feaf12973ef8f4}
+      \strng{fullhash}{e0efcb3cb131507b49feaf12973ef8f4}
+      \strng{bibnamehash}{e0efcb3cb131507b49feaf12973ef8f4}
+      \strng{authorbibnamehash}{e0efcb3cb131507b49feaf12973ef8f4}
+      \strng{authornamehash}{e0efcb3cb131507b49feaf12973ef8f4}
+      \strng{authorfullhash}{e0efcb3cb131507b49feaf12973ef8f4}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer methods in applied mechanics and engineering}
+      \field{number}{41-44}
+      \field{title}{Modelling of cohesive crack growth in concrete structures with the extended finite element method}
+      \field{volume}{196}
+      \field{year}{2007}
+      \field{pages}{4087\bibrangedash 4100}
+      \range{pages}{14}
+    \endentry
+    \entry{BUI2021107705}{article}{}
+      \name{author}{2}{}{%
+        {{hash=74815e499b2c9fc1f08835fe8e327ded}{%
+           family={Bui},
+           familyi={B\bibinitperiod},
+           given={Tinh\bibnamedelima Quoc},
+           giveni={T\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=b4658da1dd8962439520fc9fed49942f}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xiaofei},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{8902dc97d61eab676b54316f807f1880}
+      \strng{fullhash}{8902dc97d61eab676b54316f807f1880}
+      \strng{bibnamehash}{8902dc97d61eab676b54316f807f1880}
+      \strng{authorbibnamehash}{8902dc97d61eab676b54316f807f1880}
+      \strng{authornamehash}{8902dc97d61eab676b54316f807f1880}
+      \strng{authorfullhash}{8902dc97d61eab676b54316f807f1880}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0013-7944}
+      \field{journaltitle}{Engineering Fracture Mechanics}
+      \field{title}{A review of phase-field models, fundamentals and their applications to composite laminates}
+      \field{volume}{248}
+      \field{year}{2021}
+      \field{pages}{107705}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.engfracmech.2021.107705
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0013794421001582
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0013794421001582
+      \endverb
+    \endentry
+    \entry{NGUYENTHANH2020102925}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0c7940c9771a58e4c0d4b67f97fdf041}{%
+           family={Nguyen-Thanh},
+           familyi={N\bibinithyphendelim T\bibinitperiod},
+           given={Chi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2861c0b41f9744cb3dc214d96f9927d6}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Vinh\bibnamedelima Phu},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=63fb60c427dec3b1387e8df208c564c5}{%
+           family={{de Vaucorbeil}},
+           familyi={d\bibinitperiod},
+           given={Alban},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cdf24c4cf66980e810d4ef812a5b8312}{%
+           family={{Kanti Mandal}},
+           familyi={K\bibinitperiod},
+           given={Tushar},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8b748d2006ec312e54c6649f7faaefd8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jian-Ying},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcb7557111a9a642e3d55cd4f2479f79}
+      \strng{fullhash}{0ae9e8bf3cdbc21cb7db427eaf82a8f4}
+      \strng{bibnamehash}{fcb7557111a9a642e3d55cd4f2479f79}
+      \strng{authorbibnamehash}{fcb7557111a9a642e3d55cd4f2479f79}
+      \strng{authornamehash}{fcb7557111a9a642e3d55cd4f2479f79}
+      \strng{authorfullhash}{0ae9e8bf3cdbc21cb7db427eaf82a8f4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0965-9978}
+      \field{journaltitle}{Advances in Engineering Software}
+      \field{title}{Jive: An open source, research-oriented C++ library for solving partial differential equations}
+      \field{volume}{150}
+      \field{year}{2020}
+      \field{pages}{102925}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.advengsoft.2020.102925
+      \endverb
+      \keyw{Open source code,C++,FEM,Jive,OfeFRAC,Fracture}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

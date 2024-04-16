@@ -1,0 +1,6 @@
+figs/main-figure2.pdf: ./Data/SENT/NotchTension_Miehe.txt
+figs/main-figure2.pdf: ./Data/SENT/martinez.txt
+figs/main-figure2.pdf: ./Data/SENT/NotchTension_Ambati.txt
+figs/main-figure2.pdf: ./Data/SENT/problem_lodi_10.dat
+figs/main-figure2.pdf: ./Data/SENT/problem_lodi_100.dat
+figs/main-figure2.pdf: ./Data/SENT/problem_lodi_200.dat

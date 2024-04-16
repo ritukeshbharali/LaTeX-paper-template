@@ -1,0 +1,4 @@
+figs/main-figure11.pdf: ./Data/WinklerL/problem_lodi200m.dat
+figs/main-figure11.pdf: ./Data/WinklerL/problem_lodi100m.dat
+figs/main-figure11.pdf: ./Data/WinklerL/LPanelUpperLodi.txt
+figs/main-figure11.pdf: ./Data/WinklerL/LPanelLowerLodi.txt
